@@ -10,7 +10,6 @@ colorama==0.3.9
 cycler==0.10.0
 dask==0.19.4
 decorator==4.3.0
-Django==1.11.15
 dlib==19.15.0
 EasyProcess==0.2.3
 enum34==1.1.6
